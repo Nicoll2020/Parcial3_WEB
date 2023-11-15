@@ -30,7 +30,8 @@ window.addEventListener('load', () => {
                         "Clear": "images/clear.png",
                         "Rain": "images/rain.png",
                         "Drizzle": "images/drizzle.png",
-                        "Mist": "images/mist.png"
+                        "Mist": "images/mist.png",
+                        "Snow": "images/snow.png"
                     };
                     iconoClima.src = imagenesClima[climaPrincipal] || 'images/default.png';
 
